@@ -6,7 +6,7 @@ import whatsapp from './logos_whatsapp-icon.svg'
 import ig from './skill-icons_instagram.svg'
 import jamb2 from './Frame 1618868139.svg'
 import jamb1 from './unnamed 1.svg'
-
+import studentImg from './StudentImg.png'
 
 import newTutor from "./tutorNew.svg";
 import icon1 from "./icon1.svg";
@@ -39,5 +39,6 @@ export {
   jamb2,
   man,
   clock,
-  calendar
+  calendar,
+  studentImg,
 };
